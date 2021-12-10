@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cheggaaa/pb"
+	"github.com/innatical/pb"
 )
 
 func Example_copy() {
